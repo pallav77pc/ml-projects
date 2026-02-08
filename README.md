@@ -26,5 +26,4 @@ The app recommends similar movies based on cosine similarity and displays movie 
 
 ---
 
-## 📂 Project Structure
 
